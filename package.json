@@ -1,7 +1,7 @@
 {
   "name": "todo-list",
   "version": "0.1.0",
-  "homepage": "https://Ameerhamza313.github.io/my-app",
+  "homepage": "https://ameerhamza313.github.io/react-todo-list/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
